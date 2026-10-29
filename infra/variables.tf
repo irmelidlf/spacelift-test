@@ -9,5 +9,5 @@ variable "message" {
 variable "pet_length" {
   description = "Number of words in the random pet name. Changing it replaces random_pet.name."
   type        = number
-  default     = 2
+  default     = 3
 }
