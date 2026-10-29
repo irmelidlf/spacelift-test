@@ -3,7 +3,7 @@
 variable "message" {
   description = "Any string. Changing it replaces terraform_data.example."
   type        = string
-  default     = "hello world!"
+  default     = "hello world 2!!"
 }
 
 variable "pet_length" {
